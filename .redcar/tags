@@ -1,0 +1,6 @@
+1384867751
+Application	/home/poulidis/rails_projects/sample_app/config/application.rb	  class Application 
+ApplicationController	/home/poulidis/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/poulidis/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+SampleApp	/home/poulidis/rails_projects/sample_app/config/application.rb	module SampleApp
+secure_token	/home/poulidis/rails_projects/sample_app/config/initializers/secret_token.rb	def secure_token
